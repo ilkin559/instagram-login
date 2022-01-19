@@ -1,0 +1,87 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+section{
+	width: 100%;
+	float: left;
+}
+.insta{
+	text-align: center;	
+	width: 100%;
+	margin-top: 50px;
+	display: flex;
+
+}
+.foto{
+	width: 32%;
+	display: inline-block;
+	position: relative;
+
+
+}
+.foto2{
+
+	position: absolute;
+	top: 99px;
+	left: 188px;
+
+	
+
+
+}
+.foto img{
+	margin-left: 80px;
+}
+.login{
+
+	padding: 80px  70px;
+	display: inline-block;
+	background-color:#FFF;  
+	border:solid 2px;  
+
+	position: relative;
+
+}
+ .login h1{
+   text-align: center;
+   margin-bottom: 20px;
+
+ }
+.login p{
+	text-align: center;
+	padding-top: 12px;
+}
+.login a{
+	margin: 20px 40px;
+	text-decoration: none;
+}
+.login input{
+   padding: 10px  50px;
+   margin-top:15px;
+}
+
+.login button{
+	padding: 7px 90px;
+	margin-top: 12px;	
+	background-color: #2626e68f;
+	color:#ffff;
+}
+
+.hesab{
+	position: absolute;
+	padding-left: 17px;
+	margin-top: 70px;	
+	background-color: #ffff;
+	box-shadow: 12px;	
+}
+
+.box{
+	width: 44%;
+	text-align: center;
+    margin-left: 390px;
+    margin-top: 40px;
+}
+.box img{
+	width: 21%;
+}
